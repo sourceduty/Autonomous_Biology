@@ -22,6 +22,8 @@ Moreover, this GPT emphasizes accuracy and scientific rigor in all its responses
 [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
+<br>
+[New Science Subkects](https://github.com/sourceduty/New_Science_Subjects)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
