@@ -11,6 +11,10 @@ In addition to coding assistance, Autonomous Biology helps break down the intric
 Moreover, this GPT emphasizes accuracy and scientific rigor in all its responses. It stays up to date with current practices in biological simulations, making it a reliable resource for cutting-edge research and development. Whether users are new to modeling or are experienced researchers seeking optimization, Autonomous Biology adapts to their needs, ensuring they can confidently build, refine, and interpret simulations of biological systems.
 
 #
+
+![Desert Rain Frog Ye Boi](https://github.com/user-attachments/assets/173153d2-4332-427b-989d-3f0fd73283f7)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
